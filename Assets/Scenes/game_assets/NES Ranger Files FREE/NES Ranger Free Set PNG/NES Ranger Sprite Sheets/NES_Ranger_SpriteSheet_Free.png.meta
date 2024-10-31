@@ -1,0 +1,3892 @@
+fileFormatVersion: 2
+guid: afa36f2b40ebb8649b3c7bd3830a265d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8680766034381663641
+    second: NES_Ranger_SpriteSheet_Free_0
+  - first:
+      213: -4521724107236861622
+    second: NES_Ranger_SpriteSheet_Free_1
+  - first:
+      213: -6460161423290284024
+    second: NES_Ranger_SpriteSheet_Free_2
+  - first:
+      213: 4475594245462149003
+    second: NES_Ranger_SpriteSheet_Free_3
+  - first:
+      213: 1460300647055179698
+    second: NES_Ranger_SpriteSheet_Free_4
+  - first:
+      213: 2434829920939123650
+    second: NES_Ranger_SpriteSheet_Free_5
+  - first:
+      213: 8682074770289964801
+    second: NES_Ranger_SpriteSheet_Free_6
+  - first:
+      213: -976555340332828036
+    second: NES_Ranger_SpriteSheet_Free_7
+  - first:
+      213: -6236425643118541987
+    second: NES_Ranger_SpriteSheet_Free_8
+  - first:
+      213: 608951269682472130
+    second: NES_Ranger_SpriteSheet_Free_9
+  - first:
+      213: -411177467163900676
+    second: NES_Ranger_SpriteSheet_Free_10
+  - first:
+      213: -3109878807007049976
+    second: NES_Ranger_SpriteSheet_Free_11
+  - first:
+      213: -5432253590929573109
+    second: NES_Ranger_SpriteSheet_Free_12
+  - first:
+      213: -4763599852010128642
+    second: NES_Ranger_SpriteSheet_Free_13
+  - first:
+      213: 681870942895851872
+    second: NES_Ranger_SpriteSheet_Free_14
+  - first:
+      213: -3199187742482019286
+    second: NES_Ranger_SpriteSheet_Free_15
+  - first:
+      213: 368369787220203071
+    second: NES_Ranger_SpriteSheet_Free_16
+  - first:
+      213: -2317357575618873030
+    second: NES_Ranger_SpriteSheet_Free_17
+  - first:
+      213: 6898077253429518220
+    second: NES_Ranger_SpriteSheet_Free_18
+  - first:
+      213: 7156443156970055987
+    second: NES_Ranger_SpriteSheet_Free_19
+  - first:
+      213: 383078578224423461
+    second: NES_Ranger_SpriteSheet_Free_20
+  - first:
+      213: -1759707613630013817
+    second: NES_Ranger_SpriteSheet_Free_21
+  - first:
+      213: 6010577781204010366
+    second: NES_Ranger_SpriteSheet_Free_22
+  - first:
+      213: 5471027805053256834
+    second: NES_Ranger_SpriteSheet_Free_23
+  - first:
+      213: -5022139488045301344
+    second: NES_Ranger_SpriteSheet_Free_24
+  - first:
+      213: -9084194851732992238
+    second: NES_Ranger_SpriteSheet_Free_25
+  - first:
+      213: 5264647377648856478
+    second: NES_Ranger_SpriteSheet_Free_26
+  - first:
+      213: 4692894847920662480
+    second: NES_Ranger_SpriteSheet_Free_27
+  - first:
+      213: 2722971450468080200
+    second: NES_Ranger_SpriteSheet_Free_28
+  - first:
+      213: -1564865460351458911
+    second: NES_Ranger_SpriteSheet_Free_29
+  - first:
+      213: 8922467777256065268
+    second: NES_Ranger_SpriteSheet_Free_30
+  - first:
+      213: -4080851363270951144
+    second: NES_Ranger_SpriteSheet_Free_31
+  - first:
+      213: 6443730973546783845
+    second: NES_Ranger_SpriteSheet_Free_32
+  - first:
+      213: 9082376551050079626
+    second: NES_Ranger_SpriteSheet_Free_33
+  - first:
+      213: -6354900970892321966
+    second: NES_Ranger_SpriteSheet_Free_34
+  - first:
+      213: 3074573257821744257
+    second: NES_Ranger_SpriteSheet_Free_35
+  - first:
+      213: 1321742704292479945
+    second: NES_Ranger_SpriteSheet_Free_36
+  - first:
+      213: -4745233060030270353
+    second: NES_Ranger_SpriteSheet_Free_37
+  - first:
+      213: -2714673943517549242
+    second: NES_Ranger_SpriteSheet_Free_38
+  - first:
+      213: -2376365940355644463
+    second: NES_Ranger_SpriteSheet_Free_39
+  - first:
+      213: 462454123818821804
+    second: NES_Ranger_SpriteSheet_Free_40
+  - first:
+      213: 8212044807586941900
+    second: NES_Ranger_SpriteSheet_Free_41
+  - first:
+      213: 3429317807371181580
+    second: NES_Ranger_SpriteSheet_Free_42
+  - first:
+      213: 4879523379995432484
+    second: NES_Ranger_SpriteSheet_Free_43
+  - first:
+      213: 5566905531041918519
+    second: NES_Ranger_SpriteSheet_Free_44
+  - first:
+      213: 3080523503278367512
+    second: NES_Ranger_SpriteSheet_Free_45
+  - first:
+      213: -6066034314003349381
+    second: NES_Ranger_SpriteSheet_Free_46
+  - first:
+      213: -4361777060738987387
+    second: NES_Ranger_SpriteSheet_Free_47
+  - first:
+      213: -5044976711338482535
+    second: NES_Ranger_SpriteSheet_Free_48
+  - first:
+      213: 1410552966677039908
+    second: NES_Ranger_SpriteSheet_Free_49
+  - first:
+      213: 7384832716942829106
+    second: NES_Ranger_SpriteSheet_Free_50
+  - first:
+      213: 8915059542242830660
+    second: NES_Ranger_SpriteSheet_Free_51
+  - first:
+      213: -2723560629287653831
+    second: NES_Ranger_SpriteSheet_Free_52
+  - first:
+      213: -7258584816332800350
+    second: NES_Ranger_SpriteSheet_Free_53
+  - first:
+      213: 7885603017757664422
+    second: NES_Ranger_SpriteSheet_Free_54
+  - first:
+      213: -878809942035358735
+    second: NES_Ranger_SpriteSheet_Free_55
+  - first:
+      213: 453250205905937805
+    second: NES_Ranger_SpriteSheet_Free_56
+  - first:
+      213: -5544757261616608862
+    second: NES_Ranger_SpriteSheet_Free_57
+  - first:
+      213: -8120824642461763902
+    second: NES_Ranger_SpriteSheet_Free_58
+  - first:
+      213: -2889279450503208244
+    second: NES_Ranger_SpriteSheet_Free_59
+  - first:
+      213: 8564823894190682975
+    second: NES_Ranger_SpriteSheet_Free_60
+  - first:
+      213: -7286821010825359185
+    second: NES_Ranger_SpriteSheet_Free_61
+  - first:
+      213: -6111149894937227000
+    second: NES_Ranger_SpriteSheet_Free_62
+  - first:
+      213: -3425629937813543059
+    second: NES_Ranger_SpriteSheet_Free_63
+  - first:
+      213: -2030265288945837443
+    second: NES_Ranger_SpriteSheet_Free_64
+  - first:
+      213: -9139193680116220410
+    second: NES_Ranger_SpriteSheet_Free_65
+  - first:
+      213: -6336750494768730079
+    second: NES_Ranger_SpriteSheet_Free_66
+  - first:
+      213: -2299246522428137730
+    second: NES_Ranger_SpriteSheet_Free_67
+  - first:
+      213: -3059295828166574057
+    second: NES_Ranger_SpriteSheet_Free_68
+  - first:
+      213: 1029979006889114205
+    second: NES_Ranger_SpriteSheet_Free_69
+  - first:
+      213: 4385555927371401475
+    second: NES_Ranger_SpriteSheet_Free_70
+  - first:
+      213: -3982129132917329357
+    second: NES_Ranger_SpriteSheet_Free_71
+  - first:
+      213: 1467833765812351577
+    second: NES_Ranger_SpriteSheet_Free_72
+  - first:
+      213: -8289277387555733509
+    second: NES_Ranger_SpriteSheet_Free_73
+  - first:
+      213: -5368546058201358932
+    second: NES_Ranger_SpriteSheet_Free_74
+  - first:
+      213: -8805541342402842127
+    second: NES_Ranger_SpriteSheet_Free_75
+  - first:
+      213: 8874214138736466364
+    second: NES_Ranger_SpriteSheet_Free_76
+  - first:
+      213: 8296461343224256699
+    second: NES_Ranger_SpriteSheet_Free_77
+  - first:
+      213: 7463605656470639808
+    second: NES_Ranger_SpriteSheet_Free_78
+  - first:
+      213: -1306919893305108583
+    second: NES_Ranger_SpriteSheet_Free_79
+  - first:
+      213: -6752727289090636789
+    second: NES_Ranger_SpriteSheet_Free_80
+  - first:
+      213: 7692694294818172261
+    second: NES_Ranger_SpriteSheet_Free_81
+  - first:
+      213: 4253081129784656588
+    second: NES_Ranger_SpriteSheet_Free_82
+  - first:
+      213: -3565392904332761420
+    second: NES_Ranger_SpriteSheet_Free_83
+  - first:
+      213: 347294529389508276
+    second: NES_Ranger_SpriteSheet_Free_84
+  - first:
+      213: -6428702116155144966
+    second: NES_Ranger_SpriteSheet_Free_85
+  - first:
+      213: -49630217776391602
+    second: NES_Ranger_SpriteSheet_Free_86
+  - first:
+      213: 3069503477319402485
+    second: NES_Ranger_SpriteSheet_Free_87
+  - first:
+      213: 6400922599999526776
+    second: NES_Ranger_SpriteSheet_Free_88
+  - first:
+      213: 5581168712904233712
+    second: NES_Ranger_SpriteSheet_Free_89
+  - first:
+      213: 5170325819716226982
+    second: NES_Ranger_SpriteSheet_Free_90
+  - first:
+      213: 8669202244591543910
+    second: NES_Ranger_SpriteSheet_Free_91
+  - first:
+      213: -6754817400626365271
+    second: NES_Ranger_SpriteSheet_Free_92
+  - first:
+      213: 2095075957665323705
+    second: NES_Ranger_SpriteSheet_Free_93
+  - first:
+      213: -5559957012604429240
+    second: NES_Ranger_SpriteSheet_Free_94
+  - first:
+      213: 8917356219248454561
+    second: NES_Ranger_SpriteSheet_Free_95
+  - first:
+      213: 3830009798615946646
+    second: NES_Ranger_SpriteSheet_Free_96
+  - first:
+      213: 8422931279181951503
+    second: NES_Ranger_SpriteSheet_Free_97
+  - first:
+      213: 8636903486325944639
+    second: NES_Ranger_SpriteSheet_Free_98
+  - first:
+      213: 2373099880257200630
+    second: NES_Ranger_SpriteSheet_Free_99
+  - first:
+      213: -5636001730951080650
+    second: NES_Ranger_SpriteSheet_Free_100
+  - first:
+      213: 9051378333500742041
+    second: NES_Ranger_SpriteSheet_Free_101
+  - first:
+      213: 7863731186473150805
+    second: NES_Ranger_SpriteSheet_Free_102
+  - first:
+      213: 8707189797342919063
+    second: NES_Ranger_SpriteSheet_Free_103
+  - first:
+      213: -2385422946418347057
+    second: NES_Ranger_SpriteSheet_Free_104
+  - first:
+      213: -5034253373390565873
+    second: NES_Ranger_SpriteSheet_Free_105
+  - first:
+      213: -1687704514278516901
+    second: NES_Ranger_SpriteSheet_Free_106
+  - first:
+      213: -2541222738521563921
+    second: NES_Ranger_SpriteSheet_Free_107
+  - first:
+      213: -7462109313128281754
+    second: NES_Ranger_SpriteSheet_Free_108
+  - first:
+      213: 3037368763402300125
+    second: NES_Ranger_SpriteSheet_Free_109
+  - first:
+      213: -3764778111837117695
+    second: NES_Ranger_SpriteSheet_Free_110
+  - first:
+      213: -3819163678399341631
+    second: NES_Ranger_SpriteSheet_Free_111
+  - first:
+      213: -8903536409298618308
+    second: NES_Ranger_SpriteSheet_Free_112
+  - first:
+      213: 8038207085582516146
+    second: NES_Ranger_SpriteSheet_Free_113
+  - first:
+      213: -6558293668359720224
+    second: NES_Ranger_SpriteSheet_Free_114
+  - first:
+      213: 3388050767243367689
+    second: NES_Ranger_SpriteSheet_Free_115
+  - first:
+      213: 4965611826023002793
+    second: NES_Ranger_SpriteSheet_Free_116
+  - first:
+      213: 4854837697914617727
+    second: NES_Ranger_SpriteSheet_Free_117
+  - first:
+      213: -1572246195762389450
+    second: NES_Ranger_SpriteSheet_Free_118
+  - first:
+      213: -790217621529637534
+    second: NES_Ranger_SpriteSheet_Free_119
+  - first:
+      213: -9027691830411553819
+    second: NES_Ranger_SpriteSheet_Free_120
+  - first:
+      213: 4674716675975521235
+    second: NES_Ranger_SpriteSheet_Free_121
+  - first:
+      213: 1536580926966983407
+    second: NES_Ranger_SpriteSheet_Free_122
+  - first:
+      213: 8889511898875818341
+    second: NES_Ranger_SpriteSheet_Free_123
+  - first:
+      213: -4007382578293859728
+    second: NES_Ranger_SpriteSheet_Free_124
+  - first:
+      213: 3763308233025595050
+    second: NES_Ranger_SpriteSheet_Free_125
+  - first:
+      213: 103948245639158418
+    second: NES_Ranger_SpriteSheet_Free_126
+  - first:
+      213: 1388396146253892120
+    second: NES_Ranger_SpriteSheet_Free_127
+  - first:
+      213: -798150831405382932
+    second: NES_Ranger_SpriteSheet_Free_128
+  - first:
+      213: -4858304147486190132
+    second: NES_Ranger_SpriteSheet_Free_129
+  - first:
+      213: -85959479641616935
+    second: NES_Ranger_SpriteSheet_Free_130
+  - first:
+      213: -706957848005034187
+    second: NES_Ranger_SpriteSheet_Free_131
+  - first:
+      213: 5237538438070299402
+    second: NES_Ranger_SpriteSheet_Free_132
+  - first:
+      213: -1000015838073014367
+    second: NES_Ranger_SpriteSheet_Free_133
+  - first:
+      213: 4796173267207031426
+    second: NES_Ranger_SpriteSheet_Free_134
+  - first:
+      213: 1061200782427956773
+    second: NES_Ranger_SpriteSheet_Free_135
+  - first:
+      213: 37481912806137390
+    second: NES_Ranger_SpriteSheet_Free_136
+  - first:
+      213: 8359771382016809207
+    second: NES_Ranger_SpriteSheet_Free_137
+  - first:
+      213: -2965323022000164071
+    second: NES_Ranger_SpriteSheet_Free_138
+  - first:
+      213: 6270942831501210711
+    second: NES_Ranger_SpriteSheet_Free_139
+  - first:
+      213: 6702179692586262979
+    second: NES_Ranger_SpriteSheet_Free_140
+  - first:
+      213: 1781530643382991203
+    second: NES_Ranger_SpriteSheet_Free_141
+  - first:
+      213: -7264071691720249556
+    second: NES_Ranger_SpriteSheet_Free_142
+  - first:
+      213: -6880057281153771267
+    second: NES_Ranger_SpriteSheet_Free_143
+  - first:
+      213: -2862883674848938827
+    second: NES_Ranger_SpriteSheet_Free_144
+  - first:
+      213: 2581814374012005974
+    second: NES_Ranger_SpriteSheet_Free_145
+  - first:
+      213: -8540319023014781062
+    second: NES_Ranger_SpriteSheet_Free_146
+  - first:
+      213: -7175405117293007178
+    second: NES_Ranger_SpriteSheet_Free_147
+  - first:
+      213: 4709425144641676639
+    second: NES_Ranger_SpriteSheet_Free_148
+  - first:
+      213: -6788480204369773352
+    second: NES_Ranger_SpriteSheet_Free_149
+  - first:
+      213: -9190470008988702861
+    second: NES_Ranger_SpriteSheet_Free_150
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 260
+        width: 60
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d689137b6487870800000000000000
+      internalID: 8680766034381663641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 260
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4993dfa1eb9f31c0800000000000000
+      internalID: -4521724107236861622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 260
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808c915b965e856a0800000000000000
+      internalID: -6460161423290284024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87cd87e0418c1e30800000000000000
+      internalID: 4475594245462149003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 232
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf3ff493b7044410800000000000000
+      internalID: 1460300647055179698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 232
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3a11ea9e04ac120800000000000000
+      internalID: 2434829920939123650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 232
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107b384010dec7870800000000000000
+      internalID: 8682074770289964801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 232
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a73fb87149272f0800000000000000
+      internalID: -976555340332828036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 239
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5348c96be3c379a0800000000000000
+      internalID: -6236425643118541987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 232
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c462f214fd637800800000000000000
+      internalID: 608951269682472130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 231
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf40d0aa5443b4af0800000000000000
+      internalID: -411177467163900676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 232
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80744dda3bd77d4d0800000000000000
+      internalID: -3109878807007049976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 231
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b7dcee322cc94b0800000000000000
+      internalID: -5432253590929573109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 231
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa35d85c2b44edb0800000000000000
+      internalID: -4763599852010128642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_14
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 231
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069c7f5820e767900800000000000000
+      internalID: 681870942895851872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 232
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c439fb2b33a93d0800000000000000
+      internalID: -3199187742482019286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 231
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f361f39ae56bc1500800000000000000
+      internalID: 368369787220203071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 232
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a393da7109717dfd0800000000000000
+      internalID: -2317357575618873030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 233
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f5ed3e6b4eabf50800000000000000
+      internalID: 6898077253429518220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_19
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 232
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339a972822bc05360800000000000000
+      internalID: 7156443156970055987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_20
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 232
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522e020ffe7f05500800000000000000
+      internalID: 383078578224423461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 231
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e580daf334497e0800000000000000
+      internalID: -1759707613630013817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_22
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 231
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75458785acd96350800000000000000
+      internalID: 6010577781204010366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2840c7c4dcefceb40800000000000000
+      internalID: 5471027805053256834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 184
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1099a7eb6cd4ab0800000000000000
+      internalID: -5022139488045301344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 208
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fc50899e47ee180800000000000000
+      internalID: -9084194851732992238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_26
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 208
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9da37c85e8cf0940800000000000000
+      internalID: 5264647377648856478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 208
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7629a0003802140800000000000000
+      internalID: 4692894847920662480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 208
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a1ea67b10f9c520800000000000000
+      internalID: 2722971450468080200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a12972a72b784ae0800000000000000
+      internalID: -1564865460351458911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 209
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8873f8b29f2db70800000000000000
+      internalID: 8922467777256065268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 184
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ff01f6e47ed57c0800000000000000
+      internalID: -4080851363270951144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_32
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 208
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564207a1e2bbc6950800000000000000
+      internalID: 6443730973546783845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 209
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d6da94a551b0e70800000000000000
+      internalID: 9082376551050079626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 184
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b9d279c3bdec7a0800000000000000
+      internalID: -6354900970892321966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 208
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c616496141baa20800000000000000
+      internalID: 3074573257821744257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 188
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c341d59cf5c75210800000000000000
+      internalID: 1321742704292479945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 208
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64b4785cab852eb0800000000000000
+      internalID: -4745233060030270353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_38
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 208
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64da0ab6e6a835ad0800000000000000
+      internalID: -2714673943517549242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 208
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3c3cc84c3750fd0800000000000000
+      internalID: -2376365940355644463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_40
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 208
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8a22f4397fa6600800000000000000
+      internalID: 462454123818821804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_41
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 183
+        width: 14
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb8fc34e3b07f170800000000000000
+      internalID: 8212044807586941900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_42
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 208
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ed7426062679f20800000000000000
+      internalID: 3429317807371181580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_43
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 208
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42657d949ac87b340800000000000000
+      internalID: 4879523379995432484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_44
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 208
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e29e3f51f914d40800000000000000
+      internalID: 5566905531041918519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_45
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 208
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813262f0ec730ca20800000000000000
+      internalID: 3080523503278367512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_46
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 160
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70008e3eed11dba0800000000000000
+      internalID: -6066034314003349381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_47
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 184
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a84397fdad773c0800000000000000
+      internalID: -4361777060738987387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_48
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 160
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9942d841964acf9b0800000000000000
+      internalID: -5044976711338482535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 184
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b88a3237a439310800000000000000
+      internalID: 1410552966677039908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_50
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 160
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2366f03ca323c7660800000000000000
+      internalID: 7384832716942829106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_51
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 184
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44927de6b67a8bb70800000000000000
+      internalID: 8915059542242830660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_52
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 160
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ee117a908f33ad0800000000000000
+      internalID: -2723560629287653831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 184
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae70723193544b90800000000000000
+      internalID: -7258584816332800350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_54
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 160
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4a1393a2a4f6d60800000000000000
+      internalID: 7885603017757664422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_55
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 161
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb96eb8307ddc3f0800000000000000
+      internalID: -878809942035358735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_56
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 184
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85656d29a44a4600800000000000000
+      internalID: 453250205905937805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_57
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 160
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9039fd5a01d03b0800000000000000
+      internalID: -5544757261616608862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 161
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6f3de73090d4f80800000000000000
+      internalID: -8120824642461763902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_59
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 160
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2abe7d5a737e7d0800000000000000
+      internalID: -2889279450503208244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_60
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 184
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53730114fd5cd670800000000000000
+      internalID: 8564823894190682975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_61
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 160
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0d6ebd5e200ea90800000000000000
+      internalID: -7286821010825359185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_62
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 160
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801d91f7c85d03ba0800000000000000
+      internalID: -6111149894937227000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_63
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 183
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d672ea8a8b7b570d0800000000000000
+      internalID: -3425629937813543059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_64
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 184
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ad39cf97c03d3e0800000000000000
+      internalID: -2030265288945837443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_65
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 160
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e7d2bf4cf0b2180800000000000000
+      internalID: -9139193680116220410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_66
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 160
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1207701aff65f08a0800000000000000
+      internalID: -6336750494768730079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_67
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 183
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe5e93487f6710e0800000000000000
+      internalID: -2299246522428137730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_68
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 184
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7100c4337a23b85d0800000000000000
+      internalID: -3059295828166574057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_69
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 160
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a3cbf13783b4e00800000000000000
+      internalID: 1029979006889114205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_70
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 160
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309c49951ef9cdc30800000000000000
+      internalID: 4385555927371401475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_71
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 184
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3327abed6a2acb8c0800000000000000
+      internalID: -3982129132917329357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_72
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 184
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952b198780bce5410800000000000000
+      internalID: 1467833765812351577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_73
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 160
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffff0e622296fc80800000000000000
+      internalID: -8289277387555733509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_74
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 160
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad9598cdc71f75b0800000000000000
+      internalID: -5368546058201358932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1ff078dce6cc580800000000000000
+      internalID: -8805541342402842127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_76
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 143
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9d228ddba872b70800000000000000
+      internalID: 8874214138736466364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_77
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 112
+        width: 14
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb854a792a3f22370800000000000000
+      internalID: 8296461343224256699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_78
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 136
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c45789fccd049760800000000000000
+      internalID: 7463605656470639808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_79
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 112
+        width: 14
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99758a90843ecdde0800000000000000
+      internalID: -1306919893305108583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_80
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 136
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b048aacde4e7942a0800000000000000
+      internalID: -6752727289090636789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56daf4814b0f1ca60800000000000000
+      internalID: 7692694294818172261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_82
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 145
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc24bb5f0caf50b30800000000000000
+      internalID: 4253081129784656588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_83
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 136
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b62c843b0e258ec0800000000000000
+      internalID: -3565392904332761420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_84
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 136
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6b2b0d886d1d400800000000000000
+      internalID: 347294529389508276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_85
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 136
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af445cf6c79a8c6a0800000000000000
+      internalID: -6428702116155144966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_86
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 136
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a1053749daf4ff0800000000000000
+      internalID: -49630217776391602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_87
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 136
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f303725621199a20800000000000000
+      internalID: 3069503477319402485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_88
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 136
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877ddbfe035a4d850800000000000000
+      internalID: 6400922599999526776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_89
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f25e24cf5b447d40800000000000000
+      internalID: 5581168712904233712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_90
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 136
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af473180ffa0c740800000000000000
+      internalID: 5170325819716226982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_91
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 136
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666e5e292813f4870800000000000000
+      internalID: 8669202244591543910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_92
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 141
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acb909dc511242a0800000000000000
+      internalID: -6754817400626365271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_93
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 87
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba5a1abb74331d10800000000000000
+      internalID: 2095075957665323705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c55411e8017d2b0800000000000000
+      internalID: -5559957012604429240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_95
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 112
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abace73c30d0cb70800000000000000
+      internalID: 8917356219248454561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_96
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 112
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695d4cc9e9de62530800000000000000
+      internalID: 3830009798615946646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 88
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02ba2f2f5344e470800000000000000
+      internalID: 8422931279181951503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_98
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 112
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f317ac5e5f17cd770800000000000000
+      internalID: 8636903486325944639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_99
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 113
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1a04394c1fee020800000000000000
+      internalID: 2373099880257200630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_100
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 112
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6359c295946e8c1b0800000000000000
+      internalID: -5636001730951080650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_101
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 113
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9999af753a4fc9d70800000000000000
+      internalID: 9051378333500742041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_102
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 117
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559a4eaa9d5912d60800000000000000
+      internalID: 7863731186473150805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_103
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 112
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799b78eecf626d870800000000000000
+      internalID: 8707189797342919063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_104
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 112
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc33baff77645eed0800000000000000
+      internalID: -2385422946418347057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_105
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 111
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e4eb1ca3db22ab0800000000000000
+      internalID: -5034253373390565873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 113
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b571b94afa11498e0800000000000000
+      internalID: -1687704514278516901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_107
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 88
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecd64f1263cbbcd0800000000000000
+      internalID: -2541222738521563921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_108
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 64
+        width: 14
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669cadb9d13417890800000000000000
+      internalID: -7462109313128281754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_109
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 88
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda26723cc6e62a20800000000000000
+      internalID: 3037368763402300125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_110
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 64
+        width: 14
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10368c10142d0cbc0800000000000000
+      internalID: -3764778111837117695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_111
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 88
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbdee98eda9ffac0800000000000000
+      internalID: -3819163678399341631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_112
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 88
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38bff60fc8407480800000000000000
+      internalID: -8903536409298618308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_113
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 88
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf7c2f81c27d8f60800000000000000
+      internalID: 8038207085582516146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_114
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 88
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2b9bce7a24cf4a0800000000000000
+      internalID: -6558293668359720224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_115
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 93
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905d78ed836c40f20800000000000000
+      internalID: 3388050767243367689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_116
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 88
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2749695a569e440800000000000000
+      internalID: 4965611826023002793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_117
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 88
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f306a0a29df5340800000000000000
+      internalID: 4854837697914617727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_118
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 88
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e9f124a624e2ae0800000000000000
+      internalID: -1572246195762389450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_119
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 89
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dc87d82459805f0800000000000000
+      internalID: -790217621529637534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e39f9a6c1237b280800000000000000
+      internalID: -9027691830411553819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_121
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 64
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3ad119c0eefd040800000000000000
+      internalID: 4674716675975521235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_122
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 64
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feae1804638035510800000000000000
+      internalID: 1536580926966983407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_123
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 65
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561f91f29f3ed5b70800000000000000
+      internalID: 8889511898875818341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_124
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 64
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a94bde6cae268c0800000000000000
+      internalID: -4007382578293859728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_125
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 65
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa62bc926e4f93430800000000000000
+      internalID: 3763308233025595050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_126
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 64
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ad850f06c417100800000000000000
+      internalID: 103948245639158418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_127
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 71
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a0cf060f2944310800000000000000
+      internalID: 1388396146253892120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_128
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 79
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce246e03c066ce4f0800000000000000
+      internalID: -798150831405382932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_129
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 71
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc557464e16d39cb0800000000000000
+      internalID: -4858304147486190132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_130
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd42e60f4c9ecef0800000000000000
+      internalID: -85959479641616935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_131
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f3c7635916036f0800000000000000
+      internalID: -706957848005034187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_132
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 14
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b62a2b5797fa840800000000000000
+      internalID: 5237538438070299402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_133
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7b4e1c4ea3f12f0800000000000000
+      internalID: -1000015838073014367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_134
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a8911ec2e6f8240800000000000000
+      internalID: 4796173267207031426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_135
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5262cf73d742abe00800000000000000
+      internalID: 1061200782427956773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_136
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 39
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2edf42e999258000800000000000000
+      internalID: 37481912806137390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_137
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 33
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8969ca7cfd30470800000000000000
+      internalID: 8359771382016809207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_138
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91374652c6e09d6d0800000000000000
+      internalID: -2965323022000164071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_139
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 33
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7547966c74dd60750800000000000000
+      internalID: 6270942831501210711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_140
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 40
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1e075bbece20d50800000000000000
+      internalID: 6702179692586262979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_141
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 40
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369f0536ea449b810800000000000000
+      internalID: 1781530643382991203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_142
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 39
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f2b087845d03b90800000000000000
+      internalID: -7264071691720249556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_143
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 39
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df85d7ada502580a0800000000000000
+      internalID: -6880057281153771267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_144
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b43d57477ef448d0800000000000000
+      internalID: -2862883674848938827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_145
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 15
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65eabfe7e7274d320800000000000000
+      internalID: 2581814374012005974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_146
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 17
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f51bcd811ba7980800000000000000
+      internalID: -8540319023014781062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_147
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 9
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6beea301017db6c90800000000000000
+      internalID: -7175405117293007178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_148
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 7
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55e8aaa73d3b5140800000000000000
+      internalID: 4709425144641676639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_149
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcb4c598397ac1a0800000000000000
+      internalID: -6788480204369773352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_SpriteSheet_Free_150
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377e8535834e47080800000000000000
+      internalID: -9190470008988702861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

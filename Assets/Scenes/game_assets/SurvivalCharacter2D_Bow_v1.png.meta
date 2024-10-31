@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 619917cb67a13df45843d0ccbe485d40
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7781108316628962333
+    second: SurvivalCharacter2D_Bow_v1_0
+  - first:
+      213: 7456722117768566679
+    second: SurvivalCharacter2D_Bow_v1_1
+  - first:
+      213: 136526212952202238
+    second: SurvivalCharacter2D_Bow_v1_2
+  - first:
+      213: 1196483447930442558
+    second: SurvivalCharacter2D_Bow_v1_3
+  - first:
+      213: 6534655632446343930
+    second: SurvivalCharacter2D_Bow_v1_4
+  - first:
+      213: 1853484724820214898
+    second: SurvivalCharacter2D_Bow_v1_5
+  - first:
+      213: -3880618442105295780
+    second: SurvivalCharacter2D_Bow_v1_6
+  - first:
+      213: 1182366993033408042
+    second: SurvivalCharacter2D_Bow_v1_7
+  - first:
+      213: 2441724930643572635
+    second: SurvivalCharacter2D_Bow_v1_8
+  - first:
+      213: -1625395141675141067
+    second: SurvivalCharacter2D_Bow_v1_9
+  - first:
+      213: 7707487029503950598
+    second: SurvivalCharacter2D_Bow_v1_10
+  - first:
+      213: -6803279951902802274
+    second: SurvivalCharacter2D_Bow_v1_11
+  - first:
+      213: -3432382048171978228
+    second: SurvivalCharacter2D_Bow_v1_12
+  - first:
+      213: -4463623730494401591
+    second: SurvivalCharacter2D_Bow_v1_13
+  - first:
+      213: -7558330037599115998
+    second: SurvivalCharacter2D_Bow_v1_14
+  - first:
+      213: -1421940044203466067
+    second: SurvivalCharacter2D_Bow_v1_15
+  - first:
+      213: -3016647524346115505
+    second: SurvivalCharacter2D_Bow_v1_16
+  - first:
+      213: 5628600148720004510
+    second: SurvivalCharacter2D_Bow_v1_17
+  - first:
+      213: -4237043333616248365
+    second: SurvivalCharacter2D_Bow_v1_18
+  - first:
+      213: -8030890110206190085
+    second: SurvivalCharacter2D_Bow_v1_19
+  - first:
+      213: 867343716054738237
+    second: SurvivalCharacter2D_Bow_v1_20
+  - first:
+      213: -3344364955982472505
+    second: SurvivalCharacter2D_Bow_v1_21
+  - first:
+      213: 8397269742605324661
+    second: SurvivalCharacter2D_Bow_v1_22
+  - first:
+      213: -413457177294147532
+    second: SurvivalCharacter2D_Bow_v1_23
+  - first:
+      213: 2845536982662185997
+    second: SurvivalCharacter2D_Bow_v1_24
+  - first:
+      213: -6312998615580325904
+    second: SurvivalCharacter2D_Bow_v1_25
+  - first:
+      213: -5135392828885517845
+    second: SurvivalCharacter2D_Bow_v1_26
+  - first:
+      213: -7041148356537241638
+    second: SurvivalCharacter2D_Bow_v1_27
+  - first:
+      213: -2706707627812596828
+    second: SurvivalCharacter2D_Bow_v1_28
+  - first:
+      213: 897580852437579728
+    second: SurvivalCharacter2D_Bow_v1_29
+  - first:
+      213: -529046380119603673
+    second: SurvivalCharacter2D_Bow_v1_30
+  - first:
+      213: -4837477715740413939
+    second: SurvivalCharacter2D_Bow_v1_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 199
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e33e7c4633f30490800000000000000
+      internalID: -7781108316628962333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 199
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797d46a32499b7760800000000000000
+      internalID: 7456722117768566679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 199
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb9b890ed905e100800000000000000
+      internalID: 136526212952202238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 199
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33578d4b53ca9010800000000000000
+      internalID: 1196483447930442558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 199
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa4875fca2cfaa50800000000000000
+      internalID: 6534655632446343930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 199
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274858b7986e8b910800000000000000
+      internalID: 1853484724820214898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 199
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ceb795616452ac0800000000000000
+      internalID: -3880618442105295780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 199
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e27e5048c986010800000000000000
+      internalID: 1182366993033408042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 135
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97b93a33efb2e120800000000000000
+      internalID: 2441724930643572635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 135
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538bec8fabf6179e0800000000000000
+      internalID: -1625395141675141067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 135
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f73880e9e76fa60800000000000000
+      internalID: 7707487029503950598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 135
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9efb47dde4e591a0800000000000000
+      internalID: -6803279951902802274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_12
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 135
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02184576babd50d0800000000000000
+      internalID: -3432382048171978228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_13
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 135
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c390eccdd50e02c0800000000000000
+      internalID: -4463623730494401591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_14
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 135
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2256db560ea6b1790800000000000000
+      internalID: -7558330037599115998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_15
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 135
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da269554011444ce0800000000000000
+      internalID: -1421940044203466067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 71
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ac9ca3f07b226d0800000000000000
+      internalID: -3016647524346115505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 71
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9daa2f730ecc1e40800000000000000
+      internalID: 5628600148720004510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 71
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9ddd1798ff235c0800000000000000
+      internalID: -4237043333616248365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_19
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 71
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd56f68efb8c8090800000000000000
+      internalID: -8030890110206190085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 71
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d352c9da38c690c00800000000000000
+      internalID: 867343716054738237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 71
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca566faacd6691d0800000000000000
+      internalID: -3344364955982472505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 71
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571502b1758198470800000000000000
+      internalID: 8397269742605324661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_23
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 71
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430fb8943ea134af0800000000000000
+      internalID: -413457177294147532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 7
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0401d63fc06d7720800000000000000
+      internalID: 2845536982662185997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 7
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f74dc2f439b368a0800000000000000
+      internalID: -6312998615580325904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 7
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9b03c3e6b6bb8b0800000000000000
+      internalID: -5135392828885517845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_27
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 7
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfa5c510e0d84e90800000000000000
+      internalID: -7041148356537241638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_28
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 7
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3d365d0c7df6ad0800000000000000
+      internalID: -2706707627812596828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_29
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 7
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7fbba9709d47c00800000000000000
+      internalID: 897580852437579728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_30
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 7
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726c34bce1378a8f0800000000000000
+      internalID: -529046380119603673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SurvivalCharacter2D_Bow_v1_31
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 7
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00bc68c5a3dddcb0800000000000000
+      internalID: -4837477715740413939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SurvivalCharacter2D_Bow_v1_0: -7781108316628962333
+      SurvivalCharacter2D_Bow_v1_1: 7456722117768566679
+      SurvivalCharacter2D_Bow_v1_10: 7707487029503950598
+      SurvivalCharacter2D_Bow_v1_11: -6803279951902802274
+      SurvivalCharacter2D_Bow_v1_12: -3432382048171978228
+      SurvivalCharacter2D_Bow_v1_13: -4463623730494401591
+      SurvivalCharacter2D_Bow_v1_14: -7558330037599115998
+      SurvivalCharacter2D_Bow_v1_15: -1421940044203466067
+      SurvivalCharacter2D_Bow_v1_16: -3016647524346115505
+      SurvivalCharacter2D_Bow_v1_17: 5628600148720004510
+      SurvivalCharacter2D_Bow_v1_18: -4237043333616248365
+      SurvivalCharacter2D_Bow_v1_19: -8030890110206190085
+      SurvivalCharacter2D_Bow_v1_2: 136526212952202238
+      SurvivalCharacter2D_Bow_v1_20: 867343716054738237
+      SurvivalCharacter2D_Bow_v1_21: -3344364955982472505
+      SurvivalCharacter2D_Bow_v1_22: 8397269742605324661
+      SurvivalCharacter2D_Bow_v1_23: -413457177294147532
+      SurvivalCharacter2D_Bow_v1_24: 2845536982662185997
+      SurvivalCharacter2D_Bow_v1_25: -6312998615580325904
+      SurvivalCharacter2D_Bow_v1_26: -5135392828885517845
+      SurvivalCharacter2D_Bow_v1_27: -7041148356537241638
+      SurvivalCharacter2D_Bow_v1_28: -2706707627812596828
+      SurvivalCharacter2D_Bow_v1_29: 897580852437579728
+      SurvivalCharacter2D_Bow_v1_3: 1196483447930442558
+      SurvivalCharacter2D_Bow_v1_30: -529046380119603673
+      SurvivalCharacter2D_Bow_v1_31: -4837477715740413939
+      SurvivalCharacter2D_Bow_v1_4: 6534655632446343930
+      SurvivalCharacter2D_Bow_v1_5: 1853484724820214898
+      SurvivalCharacter2D_Bow_v1_6: -3880618442105295780
+      SurvivalCharacter2D_Bow_v1_7: 1182366993033408042
+      SurvivalCharacter2D_Bow_v1_8: 2441724930643572635
+      SurvivalCharacter2D_Bow_v1_9: -1625395141675141067
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: ed1af9bdff6c0f84cbe5e006a64b6ec5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8227821955074065149
+    second: NES_Ranger_Attack_Sheet_4way_0
+  - first:
+      213: -1773920610052460885
+    second: NES_Ranger_Attack_Sheet_4way_1
+  - first:
+      213: 5544259103470213647
+    second: NES_Ranger_Attack_Sheet_4way_2
+  - first:
+      213: -667358791351673699
+    second: NES_Ranger_Attack_Sheet_4way_3
+  - first:
+      213: -1207300713644534779
+    second: NES_Ranger_Attack_Sheet_4way_4
+  - first:
+      213: -4084599982688428342
+    second: NES_Ranger_Attack_Sheet_4way_5
+  - first:
+      213: 7575366830268657877
+    second: NES_Ranger_Attack_Sheet_4way_6
+  - first:
+      213: 938861017446233855
+    second: NES_Ranger_Attack_Sheet_4way_7
+  - first:
+      213: -4396692683178507226
+    second: NES_Ranger_Attack_Sheet_4way_8
+  - first:
+      213: 1875648773579423892
+    second: NES_Ranger_Attack_Sheet_4way_9
+  - first:
+      213: 2584317039765244819
+    second: NES_Ranger_Attack_Sheet_4way_10
+  - first:
+      213: 7879884249220571020
+    second: NES_Ranger_Attack_Sheet_4way_11
+  - first:
+      213: -3291087208176678074
+    second: NES_Ranger_Attack_Sheet_4way_12
+  - first:
+      213: 5815677955759502387
+    second: NES_Ranger_Attack_Sheet_4way_13
+  - first:
+      213: -6018200090729462559
+    second: NES_Ranger_Attack_Sheet_4way_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES_Ranger_Attack_Sheet_4way_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 73
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb4b37c31b40164d9b6c1ac486098cf
+      internalID: -1559092237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_Attack_Sheet_4way_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 73
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0395f70167c7b242a7ac2f05ea599b6
+      internalID: -437567011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_Attack_Sheet_4way_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3394fd438cf22142a28e67c785a8840
+      internalID: -657230614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_Attack_Sheet_4way_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 72
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5379e221ce4684ab334c54b2f02c8a
+      internalID: 700046073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_Attack_Sheet_4way_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 49
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21eea841810aa749b1dbf5941396dbf
+      internalID: 2034318270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_Attack_Sheet_4way_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 49
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3acbf2eb723514b8fbc07d131c4cd3
+      internalID: -481131511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_Attack_Sheet_4way_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 49
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc80c8228da64a34e88552750b519450
+      internalID: -1862368787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_Attack_Sheet_4way_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 49
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d367b6f5700774aaa2968a54b62f15
+      internalID: 1537822693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_Attack_Sheet_4way_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 25
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4c195c642de134cb78acf2efdfc700
+      internalID: 1096814431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_Attack_Sheet_4way_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 25
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62975fed51674a840b599b89e3f2df0f
+      internalID: -2046095363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_Attack_Sheet_4way_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 25
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831525572175552498be95c66223d5a1
+      internalID: 892492521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_Attack_Sheet_4way_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1689206e7abfcf479cfe8a2da19c960
+      internalID: -2011771297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_Attack_Sheet_4way_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfe85576f6b5624ea15a1f3627da3e2
+      internalID: 1816969483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_Attack_Sheet_4way_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38300e9e6cdb754d8acb827c2dbd06c
+      internalID: -981386431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES_Ranger_Attack_Sheet_4way_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706836822f01aaf4a8df18632b5b2a84
+      internalID: 263501729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4d4b09184af4fba4380331d1850bf0b2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NES_Ranger_Attack_Sheet_4way_0: -1559092237
+      NES_Ranger_Attack_Sheet_4way_1: -437567011
+      NES_Ranger_Attack_Sheet_4way_10: 892492521
+      NES_Ranger_Attack_Sheet_4way_11: -2011771297
+      NES_Ranger_Attack_Sheet_4way_12: 1816969483
+      NES_Ranger_Attack_Sheet_4way_13: -981386431
+      NES_Ranger_Attack_Sheet_4way_14: 263501729
+      NES_Ranger_Attack_Sheet_4way_2: -657230614
+      NES_Ranger_Attack_Sheet_4way_3: 700046073
+      NES_Ranger_Attack_Sheet_4way_4: 2034318270
+      NES_Ranger_Attack_Sheet_4way_5: -481131511
+      NES_Ranger_Attack_Sheet_4way_6: -1862368787
+      NES_Ranger_Attack_Sheet_4way_7: 1537822693
+      NES_Ranger_Attack_Sheet_4way_8: 1096814431
+      NES_Ranger_Attack_Sheet_4way_9: -2046095363
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
